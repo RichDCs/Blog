@@ -6,9 +6,9 @@ date: 2016-08-20
 comments: false
 ---
 
-{% photo images %}
+{% capture images %}
     https://richdcs.github.io/Blog/assets/img/logo.PNG
-{% endphoto %}
+{% endcapture %}
 
 <center>Check out my <a href="https://www.linkedin.com/in/richard-lagrange-a86aa627"><b>LinkedIn</b></a> profile!</center>
 
