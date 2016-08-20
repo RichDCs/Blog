@@ -6,12 +6,19 @@ date: 2016-08-20
 comments: false
 ---
 
+{% photo images %}
+    https://richdcs.github.io/Blog/assets/img/logo.PNG
+{% endcapture %}
+
 <center>Check out my <a href="https://www.linkedin.com/in/richard-lagrange-a86aa627"><b>LinkedIn</b></a> profile!</center>
 
 ## Introduction
 Hi everyone! Welcome to my blog.
 
-I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects. You'll also probably find blog posts boasting the superiority of my 2 favorite programming languages, <b>Swift</b> and <b>C#</b> <sub>:heart:</sub>
+I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects. 
+
+You'll also probably find blog posts boasting the superiority of my 2 favorite programming languages, <b>Swift</b> and <b>C#</b> <3
+
 User experience is especially important in a mobile app: users will flee your app if it's UX is flawed. That is why I love integrating <b>animations and elaborate user controls</b> to my apps!
 
 ## Some of my professional projects
@@ -24,9 +31,10 @@ User experience is especially important in a mobile app: users will flee your ap
 * iOS 9 app that communicates with a device using <b>Bluetooth Low Energy (BLE)</b>, glorious <b>MVVM databinding and Swift 2</b>
 * <b>Xamarin.Forms</b> iPad form application used by sales representatives to collect data on their clients, and fill their client database with priceless information
 * <b>Windows 10 (Xamarin complient)</b> application communicating with <b>SAP services</b>, used by factory workers in their quality control workflow
+* <b>Comptines TV iOS app</b> application communicating with <b>SAP services</b>, used by factory workers in their quality control workflow
 
 ## Some of my personal projects
-* <b>Chromatics</b>:Color defing iOS 9 app to help colorblind people in their everyday lives (coming soon to the App Store! Design phase in progress). Uses Swift 2 and MVVM
+* <b>Chromatics</b>: Color defing iOS 9 app to help colorblind people in their everyday lives (coming soon to the App Store! Design phase in progress). Uses Swift 2 and MVVM
 * <b>Sermo</b>: CrossWord soling iPhone app (yes I'm a big fan of crosswords <sub>:sweat_smile:</sub>), coming very soon to the App Store! Uses Swift 2 and MVVM
 
 ## Preview
