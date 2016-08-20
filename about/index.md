@@ -32,8 +32,8 @@ User experience is especially important in a mobile app: users will flee your ap
 ## Preview
 
 {% capture images %}
-    ![Chromatics](https://richdcs.github.io/Blog/assets/img/chromatics.PNG)
-    ![Sermo](https://richdcs.github.io/Blog/assets/img/sermo.PNG)
+    https://richdcs.github.io/Blog/assets/img/chromatics.PNG
+    https://richdcs.github.io/Blog/assets/img/sermo.PNG
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of my upcoming apps (design is work in progress)" cols=2 %}
 
