@@ -14,6 +14,7 @@ Hi everyone! Welcome to my blog.
 {% capture images %}
     https://richdcs.github.io/Blog/assets/img/logo.png
 {% endcapture %}
+{% include gallery images=images caption="Me :)" cols=1 %}
 
 I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects.
 
