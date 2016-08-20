@@ -6,14 +6,14 @@ date: 2016-08-20
 comments: false
 ---
 
-{% capture images %}
-    https://richdcs.github.io/Blog/assets/img/logo.PNG
-{% endcapture %}
-
 <center>Check out my <a href="https://www.linkedin.com/in/richard-lagrange-a86aa627"><b>LinkedIn</b></a> profile!</center>
 
 ## Introduction
 Hi everyone! Welcome to my blog.
+
+{% capture images %}
+    https://richdcs.github.io/Blog/assets/img/logo.png
+{% endcapture %}
 
 I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects.
 
