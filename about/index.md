@@ -14,7 +14,7 @@ Hi everyone! Welcome to my blog.
 {% capture images %}
     https://richdcs.github.io/Blog/assets/img/logo.png
 {% endcapture %}
-{% include gallery images=images caption="Me :)" cols=1 %}
+{% include gallery images=images caption="" cols=1 %}
 
 I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects.
 
@@ -28,15 +28,15 @@ User experience is especially important in a mobile app: users will flee your ap
 * Team communication iOS app with <b>Push Notifications</b> and app usage <b>analytics</b> using <b>[Microsoft Azure](https://azure.microsoft.com/fr-fr/services/mobile-engagement/)</b>
 * <b>iOS/Android/Windows 10 apps</b> for Orange Business Services sales representatives using <b>Xamarin.iOS</b> and <b>Xamarin.Android</b>.
 * <b>Company "App Store"</b> for Orange allow managers to install taylor-made applications for their business needs (made using <b>Xamarin.iOS</b>)
-* <b>WatchOS</b> application for displaying information about a users driving trends in real time
+* <b>WatchOS</b> application for displaying information about a users driving trends in real time for <b>Apple Watch</b>
 * iOS 9 app that communicates with a device using <b>Bluetooth Low Energy (BLE)</b>, glorious <b>MVVM databinding and Swift 2</b>
 * <b>Xamarin.Forms</b> iPad form application used by sales representatives to collect data on their clients, and fill their client database with priceless information
 * <b>Windows 10 (Xamarin complient)</b> application communicating with <b>SAP services</b>, used by factory workers in their quality control workflow
-* <b>Comptines TV iOS & Android app</b> nursery rhyme player for kids
+* <b>Comptines TV [iOS](https://itunes.apple.com/fr/app/comptinestv/id839040159?mt=8) & [Android](https://play.google.com/store/apps/details?id=fr.comptinestv.mobile&hl=fr) app</b> nursery rhyme player for kids
 
 ## Some of my personal projects
 * <b>Chromatics</b>: Color defing iOS 9 app to help colorblind people in their everyday lives (coming soon to the App Store! Design phase in progress). Uses Swift 2 and MVVM
-* <b>Sermo</b>: CrossWord soling iPhone app (yes I'm a big fan of crosswords <sub>:sweat_smile:</sub>), coming very soon to the App Store! Uses Swift 2 and MVVM
+* <b>Sermo</b>: CrossWord soling iPhone app (yes I'm a big fan of crosswords :)), coming very soon to the App Store! Uses Swift 2 and MVVM
 
 ## Preview
 
