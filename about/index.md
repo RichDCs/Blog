@@ -32,8 +32,8 @@ User experience is especially important in a mobile app: users will flee your ap
 ## Preview
 
 {% capture images %}
-    assets/img/chromatics.png
-    assets/img/sermo.png
+    ![Chromatics](assets/img/chromatics.png)
+    ![Sermo](assets/img/sermo.png)
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of my upcoming apps (design is work in progress)" cols=2 %}
 
