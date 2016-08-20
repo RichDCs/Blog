@@ -32,7 +32,7 @@ User experience is especially important in a mobile app: users will flee your ap
 * iOS 9 app that communicates with a device using <b>Bluetooth Low Energy (BLE)</b>, glorious <b>MVVM databinding and Swift 2</b>
 * <b>Xamarin.Forms</b> iPad form application used by sales representatives to collect data on their clients, and fill their client database with priceless information
 * <b>Windows 10 (Xamarin complient)</b> application communicating with <b>SAP services</b>, used by factory workers in their quality control workflow
-* <b>Comptines TV iOS app</b> application communicating with <b>SAP services</b>, used by factory workers in their quality control workflow
+* <b>Comptines TV iOS & Android app</b> nursery rhyme player for kids
 
 ## Some of my personal projects
 * <b>Chromatics</b>: Color defing iOS 9 app to help colorblind people in their everyday lives (coming soon to the App Store! Design phase in progress). Uses Swift 2 and MVVM
