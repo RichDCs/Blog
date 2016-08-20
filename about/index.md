@@ -8,14 +8,14 @@ comments: false
 
 {% photo images %}
     https://richdcs.github.io/Blog/assets/img/logo.PNG
-{% endcapture %}
+{% endphoto %}
 
 <center>Check out my <a href="https://www.linkedin.com/in/richard-lagrange-a86aa627"><b>LinkedIn</b></a> profile!</center>
 
 ## Introduction
 Hi everyone! Welcome to my blog.
 
-I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects. 
+I am a mobile developer, currently working for [Orange Business Services](http://www.orange-business.com/fr), passionate about <b>iOS</b> and <b>Xamarin</b> technologies! So here you will find blog posts on librairies and practices I love using throughout my projects.
 
 You'll also probably find blog posts boasting the superiority of my 2 favorite programming languages, <b>Swift</b> and <b>C#</b> <3
 
